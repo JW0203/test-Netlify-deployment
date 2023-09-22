@@ -10,3 +10,6 @@
 
 ## 배포 사이트
 [Netlify](https://www.netlify.com)
+
+## 배호된 웹사이트 주소
+[배포된 웹사이트 보기](https://main--imaginative-parfait-100fd4.netlify.app/)
